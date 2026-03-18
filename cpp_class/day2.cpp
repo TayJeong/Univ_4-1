@@ -3,7 +3,7 @@ using namespace std;
 
 int main(void) {
     
-    // 자릿수를 입력받아서 자릿수 합계를 출력하는 프로그램
+    // <실습2> 자릿수를 입력받아서 자릿수 합계를 출력하는 프로그램
     int num;
     int nSum;
 
@@ -20,8 +20,9 @@ int main(void) {
     b = (2==2);
     cout <<std::boolalpha;
     cout << b << endl;
-
-    // 윤년 판별
+    
+    //논리연산자
+    // <실습1>윤년 판별
 
     //지하철 요금 계산 프로그램
     int fare=0, nCount=0;
